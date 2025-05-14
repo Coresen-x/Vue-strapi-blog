@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "progresses",
+  "info": {
+    "singularName": "progress",
+    "pluralName": "progresses",
+    "displayName": "Progress",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "questionCount": {
+      "type": "biginteger"
+    },
+    "studyTime": {
+      "type": "decimal"
+    }
+  }
+}

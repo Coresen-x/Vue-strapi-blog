@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "algos",
+  "info": {
+    "singularName": "algo",
+    "pluralName": "algos",
+    "displayName": "Algo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Introduction": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "richtext"
+    },
+    "Date": {
+      "type": "date"
+    }
+  }
+}
