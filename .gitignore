@@ -12,14 +12,6 @@ frontend/dist/
 frontend/.env*
 frontend/.vitepress/dist
 
-# Strapi 后端项目的构建缓存和上传文件
-blog-backend/.tmp/
-blog-backend/build/
-blog-backend/public/uploads/
-
-# Strapi 项目的环境变量文件
-blog-backend/.env*
-
 # Log files
 *.log
 npm-debug.log*
