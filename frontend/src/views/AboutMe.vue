@@ -22,9 +22,9 @@
         </div>
         <div class="credit">
           <span style="color:tomato">Life Essays：</span>
-          <a href="http://localhost:8080/exist-and-life" target="_blank" rel="noopener noreferrer"
-            >云边语 The cloud in the rain❤</a
-          >
+          <router-link to="/exist-and-life">
+            云边语 The cloud in the rain❤
+          </router-link>
         </div>
       </div>
   
